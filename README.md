@@ -1,4 +1,4 @@
-# ReActivate AI 🏦
+<img width="959" height="313" alt="image" src="https://github.com/user-attachments/assets/5430e641-6a48-4b79-9194-ecb73453fc11" /># ReActivate AI 🏦
 ### AI-Powered Dormant Account Reactivation Platform
 
 ---
@@ -56,6 +56,9 @@ That's it. The script will:
 | **Reactivation** | Account table with AI scores, status updates, add single account, bulk CSV import |
 
 ---
+
+## Test Change
+Added by Priyanshi
 
 ## Folder Structure
 
